@@ -10,7 +10,7 @@ Este é um projeto de uma Pokédex desenvolvido durante o Bootcamp Desenvolvimen
 
 ## Acesse a Pokédex
 
-- [Visualize a Pokédex virtualmente](https://andregkk.github.io/Pokedex/)
+- [Visualize a Pokédex virtualmente](https://capable-faloodeh-8c518e.netlify.app/)
 
 ## Funcionalidades
 
